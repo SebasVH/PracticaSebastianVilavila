@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"practica","c":"CalculosMatematicos","l":"calcularMCD(int, int)","u":"calcularMCD(int,int)"},{"p":"practica","c":"CalculosMatematicos","l":"CalculosMatematicos()","u":"%3Cinit%3E()"},{"p":"practica","c":"CalculosMatematicos","l":"calculosRefactorizados(int)"}];updateSearchResults();
